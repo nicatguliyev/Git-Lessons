@@ -1,1 +1,2 @@
 bu ise 4 cu documentdir
+document 4 deyisdirildi
